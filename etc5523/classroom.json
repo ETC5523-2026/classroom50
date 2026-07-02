@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "ETC5523",
+  "short_name": "etc5523",
+  "term": "S2 2026",
+  "org": "ETC5523-2026",
+  "team": {
+    "id": 18296350,
+    "slug": "classroom50-etc5523"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18296351,
+      "slug": "classroom50-etc5523-instructor"
+    },
+    "ta": {
+      "id": 18296352,
+      "slug": "classroom50-etc5523-ta"
+    }
+  }
+}
