@@ -8,8 +8,8 @@
       "autograder": "default",
       "feedback_pr": true,
       "template": {
-        "owner": "ETC5523-2025",
-        "repo": "etc5523-2025-communicating-with-data-assignment-3-creating-a-blog-blog-template",
+        "owner": "ETC5523-2026",
+        "repo": "assignment-3",
         "branch": "main"
       },
       "due": "2026-07-06T03:54:00Z",
