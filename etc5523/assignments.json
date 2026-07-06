@@ -3,10 +3,15 @@
   "assignments": [
     {
       "slug": "assignment-1",
-      "name": "Assignment 1",
+      "name": "Assignment 3",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
+      "template": {
+        "owner": "ETC5523-2025",
+        "repo": "etc5523-2025-communicating-with-data-assignment-3-creating-a-blog-blog-template",
+        "branch": "main"
+      },
       "due": "2026-07-06T03:48:00Z",
       "due_meta": {
         "input": "2026-07-06T13:48:00",
