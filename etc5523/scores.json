@@ -1,4 +1,35 @@
 {
   "schema": "classroom50/scores/v1",
-  "assignments": {}
+  "assignments": {
+    "assignment-3": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "m2huynh",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "etc5523",
+              "assignment_type": "individual",
+              "owner": "m2huynh",
+              "submission": "submit/2026-07-06T04-01-20Z-5ae8c8a",
+              "commit": "https://github.com/ETC5523-2026/etc5523-assignment-3-m2huynh/commit/5ae8c8adb19788c584490db1502cd65346235927",
+              "release": "https://github.com/ETC5523-2026/etc5523-assignment-3-m2huynh/releases/tag/submit%2F2026-07-06T04-01-20Z-5ae8c8a",
+              "review": "https://github.com/ETC5523-2026/etc5523-assignment-3-m2huynh/compare/8f33d200df6b9c2b71789926916ad3cdfe407ea7...5ae8c8adb19788c584490db1502cd65346235927",
+              "datetime": "2026-07-06T04:01:10Z",
+              "graded_at": "2026-07-06T04:01:31Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "m2huynh",
+                "id": 114796505
+              },
+              "late": true
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
