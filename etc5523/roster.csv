@@ -1,3 +1,4 @@
-username,first_name,last_name,email,section,github_id,enrollment_status,enrollment_method,email_hash,invite_token,invited_at,enrolled_at
-m2huynh,Minh,Test,minh.huynh1@monash.edu,,114796505,enrolled,github,,3e8eeb063ed10414590524258efdfdbf,2026-07-06T03:52:10.542Z,2026-07-06T03:52:55.601Z
-fontikar,Fonti,Kar,fonti.kar@gmail.com,,12161802,enrolled,github,,3127e7abc5faddc258df97efc4638d7f,2026-07-06T04:45:26.776Z,2026-07-06T04:46:13.009Z
+username,first_name,last_name,email,section,github_id,role
+m2huynh,Minh,Test,minh.huynh1@monash.edu,,114796505,student
+fontikar,Fonti,Kar,fonti.kar@gmail.com,,12161802,student
+MikeLydeamore,,,,,3804318,teacher
