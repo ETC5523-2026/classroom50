@@ -18,7 +18,9 @@
         "zone": "Australia/Melbourne",
         "offset": "+10:00",
         "source": "auto-detected"
-      }
+      },
+      "student_permission": "admin",
+      "repo_visibility": "public"
     }
   ]
 }
