@@ -29,6 +29,8 @@
       "autograder": "default",
       "feedback_pr": false,
       "empty_repo": true,
+      "student_permission": "admin",
+      "repo_visibility": "public",
       "grading": {
         "mode": "off"
       }
