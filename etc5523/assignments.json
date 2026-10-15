@@ -21,6 +21,17 @@
       },
       "student_permission": "admin",
       "repo_visibility": "public"
+    },
+    {
+      "slug": "assignment-4",
+      "name": "Assignment 4",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": false,
+      "empty_repo": true,
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
